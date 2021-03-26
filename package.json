@@ -1,7 +1,6 @@
 {
   "name": "weather-app",
-  "homepage": "https://rohan3637.github.io/react-climate-rapp",
-  "version": "0.1.0",
+  "homepage": "https://rohan3637.github.io/myWeather",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
