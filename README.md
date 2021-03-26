@@ -1,3 +1,5 @@
+Do checkout app here: https://rohan3637.github.io/myWeather/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
