@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-climate-rapp/static/css/main.693bff98.chunk.css",
+    "main.js": "/react-climate-rapp/static/js/main.9a465c23.chunk.js",
+    "main.js.map": "/react-climate-rapp/static/js/main.9a465c23.chunk.js.map",
+    "runtime-main.js": "/react-climate-rapp/static/js/runtime-main.9bda1a0c.js",
+    "runtime-main.js.map": "/react-climate-rapp/static/js/runtime-main.9bda1a0c.js.map",
+    "static/js/2.67ae9b37.chunk.js": "/react-climate-rapp/static/js/2.67ae9b37.chunk.js",
+    "static/js/2.67ae9b37.chunk.js.map": "/react-climate-rapp/static/js/2.67ae9b37.chunk.js.map",
+    "static/js/3.4bc08384.chunk.js": "/react-climate-rapp/static/js/3.4bc08384.chunk.js",
+    "static/js/3.4bc08384.chunk.js.map": "/react-climate-rapp/static/js/3.4bc08384.chunk.js.map",
+    "index.html": "/react-climate-rapp/index.html",
+    "static/css/main.693bff98.chunk.css.map": "/react-climate-rapp/static/css/main.693bff98.chunk.css.map",
+    "static/js/2.67ae9b37.chunk.js.LICENSE.txt": "/react-climate-rapp/static/js/2.67ae9b37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bda1a0c.js",
+    "static/js/2.67ae9b37.chunk.js",
+    "static/css/main.693bff98.chunk.css",
+    "static/js/main.9a465c23.chunk.js"
+  ]
+}
