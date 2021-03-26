@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myWeather/static/css/main.693bff98.chunk.css",
-    "main.js": "/myWeather/static/js/main.9a465c23.chunk.js",
-    "main.js.map": "/myWeather/static/js/main.9a465c23.chunk.js.map",
+    "main.js": "/myWeather/static/js/main.a7695dc6.chunk.js",
+    "main.js.map": "/myWeather/static/js/main.a7695dc6.chunk.js.map",
     "runtime-main.js": "/myWeather/static/js/runtime-main.67db3483.js",
     "runtime-main.js.map": "/myWeather/static/js/runtime-main.67db3483.js.map",
     "static/js/2.67ae9b37.chunk.js": "/myWeather/static/js/2.67ae9b37.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.67db3483.js",
     "static/js/2.67ae9b37.chunk.js",
     "static/css/main.693bff98.chunk.css",
-    "static/js/main.9a465c23.chunk.js"
+    "static/js/main.a7695dc6.chunk.js"
   ]
 }
