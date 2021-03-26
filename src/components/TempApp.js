@@ -36,8 +36,9 @@ const TempApp = () => {
             {
                 !city ? (
                    <> 
-                    <p className="errorMsg"> Oopsss!!....No such city found.😒 </p>
-                    <p className="errorMsg"> Please try again!! 😄</p>
+                    <h1 className="errorMsg"> Error 404 </h1> 
+                    <h2 className="errorMsg"> Oopsss!! No such city found.😒 </h2>
+                    <h2 className="errorMsg"> Please try again!! 😄</h2>
                    </> 
                 ) : (
                    <div>
@@ -46,11 +47,11 @@ const TempApp = () => {
                       <i className="fas fa-street-view"></i>{search}
                       </h2>
                       <h1 className="temp">
-                          {city.temp} deg Cel
+                          {city.temp}° C
                       </h1>
                       <h2 className="tempmin_max">
                         <>
-                         Min : {city.temp_min} deg Cel || Max :  {city.temp_max} deg Cel
+                         Min : {city.temp_min}° C   ||   Max :  {city.temp_max}° C
                          <br/>
                          Pressure : {city.pressure} hPa || Humidity : {city.humidity} %
                          </>
